@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   sensi:
   - apiVersion: v2
+    appVersion: 0.5.11
+    created: "2020-03-15T15:29:13.104278282Z"
+    description: The sensi chart for Kubernetes
+    digest: 4a7679cc90a3efba49fa70341bbf1be67be01e95de7e7de102eda14cd54e0654
+    name: sensi
+    type: application
+    urls:
+    - https://.github.io/helm-chart/sensi-0.5.11.tgz
+    version: 0.5.11
+  - apiVersion: v2
     appVersion: 0.5.10
     created: "2020-03-15T15:25:06.893997443Z"
     description: The sensi chart for Kubernetes
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://.github.io/helm-chart/sensi-0.5.10.tgz
     version: 0.5.10
-generated: "2020-03-15T15:25:06.893151721Z"
+generated: "2020-03-15T15:29:13.103780181Z"
