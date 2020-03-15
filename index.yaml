@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  sensi:
+  - apiVersion: v2
+    appVersion: 0.5.9
+    created: "2020-03-15T15:19:44.679867254Z"
+    description: The sensi chart for Kubernetes
+    digest: 2896f239f0012135144659a0c5f833616130b677e9c5be0fa83fe2f7dce5ce7e
+    name: sensi
+    type: application
+    urls:
+    - https://polygens.github.io/helm-chart/sensi-0.5.9.tgz
+    version: 0.5.9
+generated: "2020-03-15T15:19:44.679267527Z"
